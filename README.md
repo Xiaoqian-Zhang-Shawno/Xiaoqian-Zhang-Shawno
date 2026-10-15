@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img alt="Xiaoqian Zhang — medical imaging, representation learning, and research systems at Shanghai Jiao Tong University" src="assets/profile-light.svg" width="1200" height="320">
-</picture>
+## Xiaoqian Zhang · 张啸谦
 
 ### Medical intelligence, from representations to systems.
 
