@@ -44,6 +44,9 @@ Research internship in spatial transcriptomics, tissue annotation, and image seg
 **Shanghai Jiao Tong University** · 2025–2028 (expected)  
 M.S. in Medical Imaging Technology, School of Medical Technology.
 
+**Momenta** · Oct–Dec 2025  
+Algorithm Intern in autonomous driving. Multi-camera BEV perception and temporal evaluation with BEVFormer: data and calibration-projection checks, temporal-state validation, and reproducible evaluation workflows.
+
 **United Imaging Surgical** · Jul–Dec 2026 (expected completion)  
 Internship in multi-view endoscopic reconstruction and research engineering.
 
