@@ -1,3 +1,5 @@
+<img src="assets/embodied-manga.jpg" alt="Manga illustration: a teal robotic arm lunges as a mint-green cube dodges through violet speed lines.">
+
 # Xiaoqian Zhang
 
 Shawno (张啸谦) · M.S. student at **Shanghai Jiao Tong University**.
@@ -31,16 +33,11 @@ Collects arXiv papers and turns them into a recurring literature digest in Notio
 
 ### Lab notebook
 
-<img src="assets/embodied-manga.jpg" width="560" alt="Manga illustration: a teal robotic arm lunges as a mint-green cube dodges through violet speed lines.">
-
-*Worked in sim. The cube has other plans.*
-
-<details>
-<summary>See the cube escape</summary>
-
-<img src="assets/embodied-workbench.svg" width="200" alt="An animated robot gripper descends and a cube slides out of reach.">
-
-</details>
+<p>
+  <img align="right" src="assets/embodied-workbench.svg" width="132" alt="An animated robot gripper descends and a cube slides out of reach.">
+  <em>Worked in sim.<br>The cube has other plans.</em>
+  <br clear="right">
+</p>
 
 ## Education & experience
 
