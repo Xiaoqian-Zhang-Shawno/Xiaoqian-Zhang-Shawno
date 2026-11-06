@@ -6,10 +6,10 @@ I’m Shawno, an M.S. student in Medical Imaging Technology at **Shanghai Jiao T
 
 [Website](https://xiaoqian-zhang-shawno.github.io/) · [Publications](https://xiaoqian-zhang-shawno.github.io/publications/) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [CV](https://xiaoqian-zhang-shawno.github.io/cv/) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
-<details>
-<summary><strong>Lab notes</strong> · a small debugging comic and project numbers</summary>
-
 ![Three-panel comic: model looks great, check the patient split, check the patient split again.](assets/patient-split-comic.svg)
+
+<details>
+<summary><strong>Project snapshot</strong> · papers, repos, stars and forks</summary>
 
 **3 featured papers · 3 showcased repositories · 4 stars · 2 forks**
 
