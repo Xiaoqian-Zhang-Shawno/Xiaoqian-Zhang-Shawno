@@ -6,6 +6,17 @@ I’m Shawno, an M.S. student in Medical Imaging Technology at **Shanghai Jiao T
 
 [Website](https://xiaoqian-zhang-shawno.github.io/) · [Publications](https://xiaoqian-zhang-shawno.github.io/publications/) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [CV](https://xiaoqian-zhang-shawno.github.io/cv/) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
+<details>
+<summary><strong>Lab notes</strong> · a small debugging comic and project numbers</summary>
+
+![Three-panel comic: model looks great, check the patient split, check the patient split again.](assets/patient-split-comic.svg)
+
+**3 featured papers · 3 showcased repositories · 4 stars · 2 forks**
+
+Stars and forks are totals for ShawnoBot, notion-monthly-research, and BetDogEye, checked on GitHub on 2026-11-06. These are a snapshot.
+
+</details>
+
 ### Selected research
 
 `IEEE TMI` — **[VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
