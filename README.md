@@ -27,8 +27,8 @@ A review of technical progress and clinical translation in breast cancer imaging
 
 <!-- Star counts checked against GitHub on 2026-11-06. -->
 
-<img src="assets/badges/repo.svg" width="39" height="20" align="texttop" alt="Repo"> **— [ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**&nbsp;·&nbsp;[★&nbsp;0](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot/stargazers "ShawnoBot stargazers")  
-Feishu gateway for research workstation monitoring, allowlisted tasks, and sandboxed Codex workflows.
+<img src="assets/badges/repo.svg" width="39" height="20" align="texttop" alt="Repo"> **— [JoFoundry](https://github.com/Xiaoqian-Zhang-Shawno/JoFoundry)**&nbsp;·&nbsp;[★&nbsp;0](https://github.com/Xiaoqian-Zhang-Shawno/JoFoundry/stargazers "JoFoundry stargazers")  
+Local multi-model research workspace with staged evidence review, resumable goals, and bilingual manuscript drafts.
 
 <img src="assets/badges/repo.svg" width="39" height="20" align="texttop" alt="Repo"> **— [Notion&nbsp;Research&nbsp;Digest](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**&nbsp;·&nbsp;[★&nbsp;3](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research/stargazers "notion-monthly-research stargazers")  
 Collects arXiv papers and turns them into a recurring literature digest in Notion.
