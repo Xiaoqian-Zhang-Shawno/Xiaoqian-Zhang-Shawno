@@ -1,76 +1,70 @@
-# Xiaoqian Zhang · 张啸谦
+# Xiaoqian Zhang
 
-**Medical imaging · Representation learning · Research systems**
+Shawno (张啸谦) · M.S. student at **Shanghai Jiao Tong University**.
 
-I’m Shawno, an M.S. student in Medical Imaging Technology at **Shanghai Jiao Tong University**, with a biomedical engineering background from **Beihang University**. I study how models learn from medical images and build tools for research workflows.
+I study medical image representations and build research software.
 
-**Currently:** Working on embodied AI.
+> **Now:** Working on embodied AI.
 
-[Website](https://xiaoqian-zhang-shawno.github.io/) · [Publications](https://xiaoqian-zhang-shawno.github.io/publications/) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [CV](https://xiaoqian-zhang-shawno.github.io/cv/) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
-
-<img src="assets/embodied-workbench.svg" width="320" alt="A robot gripper reaches for a cube, and the cube scoots away.">
-
-*Worked in sim. The cube has other plans.*
+[Website](https://xiaoqian-zhang-shawno.github.io/) · [CV](https://xiaoqian-zhang-shawno.github.io/cv/) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
 ## Selected research
 
-- `IEEE TMI` — **[VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
-  Learning vector-quantized codebook priors for PET image synthesis.
+**`IEEE TMI` — [VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
+Vector-quantized codebook priors for PET image synthesis.
 
-- `IVC` — **[MoMIL](https://doi.org/10.1016/j.imavis.2026.105918)** · 2026  
-  Multi-order enhanced multiple instance learning for computational pathology.
+**`IVC` — [MoMIL](https://doi.org/10.1016/j.imavis.2026.105918)** · 2026  
+Multi-order multiple instance learning for computational pathology.
 
-- `AUDT` — **[Photoacoustic–ultrasound fusion imaging](https://doi.org/10.26599/AUDT.2025.250103)** · 2025  
-  A review of technical progress and clinical translation in breast cancer imaging.
+**`AUDT` — [Photoacoustic–ultrasound fusion](https://doi.org/10.26599/AUDT.2025.250103)** · Review · 2025  
+A review of technical progress and clinical translation in breast cancer imaging.
 
-[All publications, author lists & technical overviews](https://xiaoqian-zhang-shawno.github.io/publications/)
+[All publications and author lists](https://xiaoqian-zhang-shawno.github.io/publications/)
 
-## Open-source systems
+## Research software
 
-- `Repo` — **[ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**  
-  A controlled Feishu gateway to a research workstation: GPU and job monitoring, allowlisted commands, and sandboxed Codex workflows.  
-  Python / Feishu / Codex CLI
+**`Repo` — [ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**  
+Feishu gateway for research workstation monitoring, allowlisted tasks, and sandboxed Codex workflows.
 
-- `Repo` — **[notion-monthly-research](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**  
-  An automated literature workflow that collects recent arXiv papers, synthesizes research trends with a language model, and archives reports in Notion.  
-  Python / GitHub Actions / Notion API
+**`Repo` — [notion-monthly-research](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**  
+Collects arXiv papers and turns them into a recurring literature digest in Notion.
 
-- `Repo` — **[BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**  
-  A local-first sports-betting portfolio app with exposure analysis, visualization, and portable records.  
-  JavaScript / PWA / Data visualization
+### Lab notebook
+
+<img src="assets/embodied-manga.jpg" width="560" alt="Manga illustration: a teal robotic arm lunges as a mint-green cube dodges through violet speed lines.">
+
+*Worked in sim. The cube has other plans.*
+
+<details>
+<summary>See the cube escape</summary>
+
+<img src="assets/embodied-workbench.svg" width="200" alt="An animated robot gripper descends and a cube slides out of reach.">
+
+</details>
 
 ## Education & experience
 
-- **Beihang University** · 2021–2025  
-  B.E. in Biomedical Engineering.
-
-- **BGI Research Institute** · Jun–Nov 2024  
-  Research internship in spatial transcriptomics, tissue annotation, and image segmentation.
-
-- **Shanghai Jiao Tong University** · 2025–2028 (expected)  
-  M.S. in Medical Imaging Technology, School of Medical Technology.
-
-- **Momenta** · Oct–Dec 2025  
-  Algorithm Intern in autonomous driving. Multi-camera BEV perception and temporal evaluation with BEVFormer: data and calibration-projection checks, temporal-state validation, and reproducible evaluation workflows.
-
-- **United Imaging Surgical** · Jul–Dec 2026 (expected completion)  
-  Internship in multi-view endoscopic reconstruction and research engineering.
+- **Beihang University** · 2021–2025 — B.E. in Biomedical Engineering.
+- **BGI Research Institute** · Jun–Nov 2024 — Research internship in spatial transcriptomics and tissue image analysis.
+- **Shanghai Jiao Tong University** · 2025–2028 (expected) — M.S. in Medical Imaging Technology.
+- **Momenta** · Oct–Dec 2025 — Algorithm internship in multi-camera BEV perception and temporal evaluation.
+- **United Imaging Surgical** · Jul–Dec 2026 (expected) — Internship in multi-view endoscopic reconstruction.
 
 <details>
 <summary>Methods &amp; interests</summary>
 
-**Methods:** Python, PyTorch, scikit-learn, OpenCV; multiple instance learning, generative modeling, and research automation.  
-**Exploring:** 3D perception and spatially aware representations for medical data.
+Python, PyTorch, scikit-learn, and OpenCV. Multiple instance learning, generative modeling, and research automation. Exploring 3D perception and spatial representations for medical data.
 
 </details>
 
 <details>
-<summary>Project snapshot · 6 Nov 2026</summary>
+<summary>Side project &amp; activity</summary>
 
-**3 featured papers · 3 showcased repositories · 4 stars · 2 forks**
+**`Repo` — [BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**  
+Local-first sports-betting portfolio app for exposure analysis and portable records.
 
-Stars and forks are totals for ShawnoBot, notion-monthly-research, and BetDogEye, checked on GitHub on 2026-11-06.
+Across the three repositories shown here: 4 stars and 2 forks (GitHub snapshot, 6 Nov 2026).
 
 </details>
 
-[ORCID](https://orcid.org/0009-0004-5587-2188) · [Research directions](https://xiaoqian-zhang-shawno.github.io/research/) · [Get in touch](mailto:xiaoqian_shawno@sjtu.edu.cn)
+[ORCID](https://orcid.org/0009-0004-5587-2188) · [Research directions](https://xiaoqian-zhang-shawno.github.io/research/)
