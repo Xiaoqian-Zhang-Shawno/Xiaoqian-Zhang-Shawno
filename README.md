@@ -10,7 +10,7 @@ I study medical image representations and build research software.
 
 [Website](https://xiaoqian-zhang-shawno.github.io/) · [ORCID](https://orcid.org/0009-0004-5587-2188) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
-## Selected research&nbsp;<img align="middle" src="assets/jojo-giorno.svg" width="24" height="24" alt="">
+## Selected research&nbsp;<img align="middle" src="assets/jojo-giorno.svg" width="32" height="32" alt="">
 
 **`IEEE TMI` — [VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
 Vector-quantized codebook priors for PET image synthesis.
@@ -23,13 +23,17 @@ A review of technical progress and clinical translation in breast cancer imaging
 
 [All publications and author lists](https://xiaoqian-zhang-shawno.github.io/publications/)
 
-## Research software&nbsp;<img align="middle" src="assets/jojo-josuke.svg" width="24" height="24" alt="">
+## Research software&nbsp;<img align="middle" src="assets/jojo-josuke.svg" width="32" height="32" alt="">
 
-**`Repo` — [ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**  
+<!-- Star counts checked against GitHub on 2026-11-06. -->
+
+**`Repo` — [ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**&nbsp;·&nbsp;[★&nbsp;0](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot/stargazers "ShawnoBot stargazers")  
 Feishu gateway for research workstation monitoring, allowlisted tasks, and sandboxed Codex workflows.
 
-**`Repo` — [notion-monthly-research](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**  
+**`Repo` — [Notion&nbsp;Research&nbsp;Digest](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**&nbsp;·&nbsp;[★&nbsp;3](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research/stargazers "notion-monthly-research stargazers")  
 Collects arXiv papers and turns them into a recurring literature digest in Notion.
+
+[All research software](RESEARCH_SOFTWARE.md)
 
 <p>
   <em>Worked in sim. The cube has other plans.</em>
@@ -37,7 +41,7 @@ Collects arXiv papers and turns them into a recurring literature digest in Notio
   <img align="middle" src="assets/embodied-workbench-loop.svg" width="200" alt="An animated robot gripper descends and a cube slides out of reach.">
 </p>
 
-## Education & work&nbsp;<img align="middle" src="assets/jojo-dio.svg" width="24" height="24" alt="">
+## Education & work&nbsp;<img align="middle" src="assets/jojo-dio.svg" width="32" height="32" alt="">
 
 - **Beihang University** · 2021–2025 — B.E. in Biomedical Engineering.
 - **BGI Research Institute** · Jun–Nov 2024 — Research internship in spatial transcriptomics and tissue image analysis.
