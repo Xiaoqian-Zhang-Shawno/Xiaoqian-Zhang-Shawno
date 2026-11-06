@@ -55,6 +55,5 @@ Local web app for tracking sports bets and visualizing portfolio risk.
 ## Highlights&nbsp;<img align="middle" src="assets/jojo-jotaro.svg" width="32" height="40" alt="">
 
 - **Graduate scholarships** — First-Class Graduate Scholarship, Shanghai Jiao Tong University, in both 2025–2026 and 2026–2027.
+- **Undergraduate scholarship** — First-Class Scholarship, Beihang University (2021–2022).
 - **Biomedical design** — National third prize for a team project on multimodal Raman and photoelectric sensing for early cervical cancer detection. [2024 competition results](https://news.buaa.edu.cn/info/1005/63065.htm)
-- **Research authorship** — Co-first author of a review on the clinical translation of photoacoustic–ultrasound fusion for breast cancer imaging. [Author contribution statement](https://www.sciopen.com/article/10.26599/AUDT.2025.250103)
-- **Research infrastructure** — Built [Research Foundry](https://github.com/Xiaoqian-Zhang-Shawno/research-foundry), a local workspace for multi-model reviews and evidence tracking from research question to paper draft.
