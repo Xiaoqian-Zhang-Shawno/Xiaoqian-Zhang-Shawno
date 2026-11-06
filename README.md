@@ -10,7 +10,7 @@ I study medical image representations and build research software.
 
 [Website](https://xiaoqian-zhang-shawno.github.io/) · [ORCID](https://orcid.org/0009-0004-5587-2188) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
-## Selected research&nbsp;<img align="middle" src="assets/jojo-giorno.svg" width="32" height="32" alt="">
+## Selected research&nbsp;<img align="middle" src="assets/jojo-giorno.svg" width="32" height="40" alt="">
 
 **`IEEE TMI` — [VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
 Vector-quantized codebook priors for PET image synthesis.
@@ -23,7 +23,7 @@ A review of technical progress and clinical translation in breast cancer imaging
 
 [All publications and author lists](https://xiaoqian-zhang-shawno.github.io/publications/)
 
-## Selected software&nbsp;<img align="middle" src="assets/jojo-josuke.svg" width="32" height="32" alt="">
+## Selected software&nbsp;<img align="middle" src="assets/jojo-josuke.svg" width="32" height="40" alt="">
 
 <!-- Star counts checked against GitHub on 2026-11-06. -->
 
@@ -44,7 +44,7 @@ Local web app for tracking sports bets and visualizing portfolio risk.
   <img align="middle" src="assets/embodied-workbench-loop.svg" width="200" alt="An animated robot gripper descends and a cube slides out of reach.">
 </p>
 
-## Education & work&nbsp;<img align="middle" src="assets/jojo-dio.svg" width="32" height="32" alt="">
+## Education & work&nbsp;<img align="middle" src="assets/jojo-dio.svg" width="32" height="40" alt="">
 
 - **Beihang University** · 2021–2025 — B.E. in Biomedical Engineering.
 - **BGI Research Institute** · Jun–Nov 2024 — Research internship in spatial transcriptomics and tissue image analysis.
@@ -52,8 +52,9 @@ Local web app for tracking sports bets and visualizing portfolio risk.
 - **Momenta** · Oct–Dec 2025 — Algorithm internship in multi-camera BEV perception and temporal evaluation.
 - **United Imaging Surgical** · Jul–Dec 2026 (expected) — Internship in multi-view endoscopic reconstruction.
 
-## Highlights&nbsp;<img align="middle" src="assets/jojo-jotaro.svg" width="32" height="32" alt="">
+## Highlights&nbsp;<img align="middle" src="assets/jojo-jotaro.svg" width="32" height="40" alt="">
 
+- **Graduate scholarships** — First-Class Graduate Scholarship, Shanghai Jiao Tong University, in both 2025–2026 and 2026–2027.
 - **Biomedical design** — National third prize for a team project on multimodal Raman and photoelectric sensing for early cervical cancer detection. [2024 competition results](https://news.buaa.edu.cn/info/1005/63065.htm)
 - **Research authorship** — Co-first author of a review on the clinical translation of photoacoustic–ultrasound fusion for breast cancer imaging. [Author contribution statement](https://www.sciopen.com/article/10.26599/AUDT.2025.250103)
 - **Research infrastructure** — Built [Research Foundry](https://github.com/Xiaoqian-Zhang-Shawno/research-foundry), a local workspace for multi-model reviews and evidence tracking from research question to paper draft.
