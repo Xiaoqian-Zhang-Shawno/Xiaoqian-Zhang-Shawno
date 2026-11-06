@@ -1,71 +1,76 @@
-## Xiaoqian Zhang · 张啸谦
+# Xiaoqian Zhang · 张啸谦
 
 **Medical imaging · Representation learning · Research systems**
 
-I’m Shawno, an M.S. student in Medical Imaging Technology at **Shanghai Jiao Tong University**. I study representations for medical images and build tools for research workflows, drawing on a biomedical engineering background at **Beihang University**.
+I’m Shawno, an M.S. student in Medical Imaging Technology at **Shanghai Jiao Tong University**, with a biomedical engineering background from **Beihang University**. I study how models learn from medical images and build tools for research workflows.
 
-I’m currently working on **embodied AI**.
+**Currently:** Working on embodied AI.
 
 [Website](https://xiaoqian-zhang-shawno.github.io/) · [Publications](https://xiaoqian-zhang-shawno.github.io/publications/) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [CV](https://xiaoqian-zhang-shawno.github.io/cv/) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
-![Illustration: a robot gripper reaches for a cube, and the cube scoots away. Worked in sim.](assets/embodied-lab.svg)
+<img src="assets/embodied-workbench.svg" width="320" alt="A robot gripper reaches for a cube, and the cube scoots away.">
 
-<details>
-<summary><strong>Project snapshot</strong> · papers, repos, stars and forks</summary>
+*Worked in sim. The cube has other plans.*
 
-**3 featured papers · 3 showcased repositories · 4 stars · 2 forks**
+## Selected research
 
-Stars and forks are totals for ShawnoBot, notion-monthly-research, and BetDogEye, checked on GitHub on 2026-11-06. These are a snapshot.
+- `IEEE TMI` — **[VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
+  Learning vector-quantized codebook priors for PET image synthesis.
 
-</details>
+- `IVC` — **[MoMIL](https://doi.org/10.1016/j.imavis.2026.105918)** · 2026  
+  Multi-order enhanced multiple instance learning for computational pathology.
 
-### Selected research
-
-`IEEE TMI` — **[VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
-Learning vector-quantized codebook priors for PET image synthesis.
-
-`IVC` — **[MoMIL](https://doi.org/10.1016/j.imavis.2026.105918)** · 2026  
-Multi-order enhanced multiple instance learning for computational pathology.
-
-`AUDT` — **[Photoacoustic–ultrasound fusion imaging](https://doi.org/10.26599/AUDT.2025.250103)** · 2025  
-A review of technical progress and clinical translation in breast cancer imaging.
+- `AUDT` — **[Photoacoustic–ultrasound fusion imaging](https://doi.org/10.26599/AUDT.2025.250103)** · 2025  
+  A review of technical progress and clinical translation in breast cancer imaging.
 
 [All publications, author lists & technical overviews](https://xiaoqian-zhang-shawno.github.io/publications/)
 
-### Open-source systems
+## Open-source systems
 
-`Repo` — **[ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**  
-A controlled Feishu gateway to a research workstation: GPU and job monitoring, allowlisted commands, and sandboxed Codex workflows.  
-Python / Feishu / Codex CLI
+- `Repo` — **[ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**  
+  A controlled Feishu gateway to a research workstation: GPU and job monitoring, allowlisted commands, and sandboxed Codex workflows.  
+  Python / Feishu / Codex CLI
 
-`Repo` — **[notion-monthly-research](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**  
-An automated literature workflow that collects recent arXiv papers, synthesizes research trends with a language model, and archives reports in Notion.  
-Python / GitHub Actions / Notion API
+- `Repo` — **[notion-monthly-research](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**  
+  An automated literature workflow that collects recent arXiv papers, synthesizes research trends with a language model, and archives reports in Notion.  
+  Python / GitHub Actions / Notion API
 
-`Repo` — **[BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**  
-A local-first sports-betting portfolio app with exposure analysis, visualization, and portable records.  
-JavaScript / PWA / Data visualization
+- `Repo` — **[BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**  
+  A local-first sports-betting portfolio app with exposure analysis, visualization, and portable records.  
+  JavaScript / PWA / Data visualization
 
-### Education & experience
+## Education & experience
 
-**Beihang University** · 2021–2025  
-B.E. in Biomedical Engineering.
+- **Beihang University** · 2021–2025  
+  B.E. in Biomedical Engineering.
 
-**BGI Research Institute** · Jun–Nov 2024  
-Research internship in spatial transcriptomics, tissue annotation, and image segmentation.
+- **BGI Research Institute** · Jun–Nov 2024  
+  Research internship in spatial transcriptomics, tissue annotation, and image segmentation.
 
-**Shanghai Jiao Tong University** · 2025–2028 (expected)  
-M.S. in Medical Imaging Technology, School of Medical Technology.
+- **Shanghai Jiao Tong University** · 2025–2028 (expected)  
+  M.S. in Medical Imaging Technology, School of Medical Technology.
 
-**Momenta** · Oct–Dec 2025  
-Algorithm Intern in autonomous driving. Multi-camera BEV perception and temporal evaluation with BEVFormer: data and calibration-projection checks, temporal-state validation, and reproducible evaluation workflows.
+- **Momenta** · Oct–Dec 2025  
+  Algorithm Intern in autonomous driving. Multi-camera BEV perception and temporal evaluation with BEVFormer: data and calibration-projection checks, temporal-state validation, and reproducible evaluation workflows.
 
-**United Imaging Surgical** · Jul–Dec 2026 (expected completion)  
-Internship in multi-view endoscopic reconstruction and research engineering.
+- **United Imaging Surgical** · Jul–Dec 2026 (expected completion)  
+  Internship in multi-view endoscopic reconstruction and research engineering.
 
-### Methods & interests
+<details>
+<summary>Methods &amp; interests</summary>
 
 **Methods:** Python, PyTorch, scikit-learn, OpenCV; multiple instance learning, generative modeling, and research automation.  
 **Exploring:** 3D perception and spatially aware representations for medical data.
+
+</details>
+
+<details>
+<summary>Project snapshot · 6 Nov 2026</summary>
+
+**3 featured papers · 3 showcased repositories · 4 stars · 2 forks**
+
+Stars and forks are totals for ShawnoBot, notion-monthly-research, and BetDogEye, checked on GitHub on 2026-11-06.
+
+</details>
 
 [ORCID](https://orcid.org/0009-0004-5587-2188) · [Research directions](https://xiaoqian-zhang-shawno.github.io/research/) · [Get in touch](mailto:xiaoqian_shawno@sjtu.edu.cn)
