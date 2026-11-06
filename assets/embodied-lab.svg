@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="208" viewBox="0 0 760 208">
+<title>Worked in sim. The cube has other plans.</title>
+<desc>A playful illustration: a robot gripper descends as the cube scoots away. This is not a project demo.</desc>
+<style>
+@media(prefers-reduced-motion:no-preference){
+.gripper{animation: reach 3.7s cubic-bezier(.45,0,.25,1) 1}
+.stem{transform-origin:625px 74px;animation: extend 3.7s cubic-bezier(.45,0,.25,1) 1}
+.cube{animation: dodge 3.7s cubic-bezier(.45,0,.25,1) 1}
+}
+@keyframes reach{0%,12%,100%{transform:translateY(0)}36%,62%{transform:translateY(26px)}84%{transform:translateY(0)}}
+@keyframes extend{0%,12%,84%,100%{transform:scaleY(1)}36%,62%{transform:scaleY(2.73)}}
+@keyframes dodge{0%,29%,100%{transform:translateX(0)}43%,76%{transform:translateX(39px)}}
+</style>
+<defs>
+<pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#8aabc7" stroke-opacity=".14"/></pattern>
+</defs>
+<rect x="1" y="1" width="758" height="206" rx="15" fill="#101e31" stroke="#39546b"/>
+<g font-family="system-ui, -apple-system, sans-serif">
+<text x="30" y="46" font-size="17" font-weight="600" fill="#81dfcb">Lab notebook / Embodied AI</text>
+<text x="30" y="101" font-size="42" font-weight="750" letter-spacing="-1" fill="#f5f9ff">Worked in sim.</text>
+<text x="31" y="138" font-size="22" fill="#b6c9dc">The cube has other plans.</text>
+</g>
+<rect x="433" y="17" width="308" height="174" rx="10" fill="#152940"/>
+<rect x="433" y="17" width="308" height="174" rx="10" fill="url(#grid)"/>
+<path d="M454 162H719" stroke="#7297b5" stroke-width="2"/>
+<path d="M488 161V135l36-60 57-29 44 22" fill="none" stroke="#71b9e8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M465 161h46" stroke="#d1e6f5" stroke-width="8" stroke-linecap="round"/>
+<g fill="#101e31" stroke="#9fd7fa" stroke-width="4"><circle cx="524" cy="75" r="9"/><circle cx="581" cy="46" r="8"/><circle cx="625" cy="68" r="8"/></g>
+<path class="stem" d="M625 74v15" stroke="#9fd7fa" stroke-width="5"/>
+<g class="gripper" fill="none" stroke="#9fd7fa" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M611 101v-12h28v12m-28 0-6 7m34-7 6 7"/>
+</g>
+<g class="cube" stroke="#92eed4" stroke-width="2" stroke-linejoin="round">
+<path d="M612 141l12-8 15 7-12 8z" fill="#81dfcb"/>
+<path d="M612 141v14l15 7v-14z" fill="#4baf9d"/>
+<path d="M627 148l12-8v14l-12 8z" fill="#2f776d"/>
+</g>
+</svg>

@@ -4,9 +4,11 @@
 
 I’m Shawno, an M.S. student in Medical Imaging Technology at **Shanghai Jiao Tong University**. I study representations for medical images and build tools for research workflows, drawing on a biomedical engineering background at **Beihang University**.
 
+I’m currently working on **embodied AI**.
+
 [Website](https://xiaoqian-zhang-shawno.github.io/) · [Publications](https://xiaoqian-zhang-shawno.github.io/publications/) · [Google Scholar](https://scholar.google.co.jp/citations?user=maQlQdIAAAAJ&hl=zh-CN) · [CV](https://xiaoqian-zhang-shawno.github.io/cv/) · [Email](mailto:xiaoqian_shawno@sjtu.edu.cn)
 
-![Three-panel comic: model looks great, check the patient split, check the patient split again.](assets/patient-split-comic.svg)
+![Illustration: a robot gripper reaches for a cube, and the cube scoots away. Worked in sim.](assets/embodied-lab.svg)
 
 <details>
 <summary><strong>Project snapshot</strong> · papers, repos, stars and forks</summary>
