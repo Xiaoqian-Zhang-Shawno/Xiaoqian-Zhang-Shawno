@@ -23,7 +23,7 @@ A review of technical progress and clinical translation in breast cancer imaging
 
 [All publications and author lists](https://xiaoqian-zhang-shawno.github.io/publications/)
 
-## Research software&nbsp;<img align="middle" src="assets/jojo-josuke.svg" width="32" height="32" alt="">
+## Selected software&nbsp;<img align="middle" src="assets/jojo-josuke.svg" width="32" height="32" alt="">
 
 <!-- Star counts checked against GitHub on 2026-11-06. -->
 
@@ -33,7 +33,10 @@ Feishu gateway for research workstation monitoring, allowlisted tasks, and sandb
 **`Repo` — [Notion&nbsp;Research&nbsp;Digest](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**&nbsp;·&nbsp;[★&nbsp;3](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research/stargazers "notion-monthly-research stargazers")  
 Collects arXiv papers and turns them into a recurring literature digest in Notion.
 
-[All research software](RESEARCH_SOFTWARE.md)
+**`Repo` — [BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**&nbsp;·&nbsp;[★&nbsp;1](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye/stargazers "BetDogEye stargazers")  
+Local web app for tracking sports bets and visualizing portfolio risk.
+
+[All software projects](RESEARCH_SOFTWARE.md)
 
 <p>
   <em>Worked in sim. The cube has other plans.</em>
@@ -48,3 +51,9 @@ Collects arXiv papers and turns them into a recurring literature digest in Notio
 - **Shanghai Jiao Tong University** · 2025–2028 (expected) — M.S. in Medical Imaging Technology.
 - **Momenta** · Oct–Dec 2025 — Algorithm internship in multi-camera BEV perception and temporal evaluation.
 - **United Imaging Surgical** · Jul–Dec 2026 (expected) — Internship in multi-view endoscopic reconstruction.
+
+## Highlights&nbsp;<img align="middle" src="assets/jojo-jotaro.svg" width="32" height="32" alt="">
+
+- **Biomedical design** — National third prize for a team project on multimodal Raman and photoelectric sensing for early cervical cancer detection. [2024 competition results](https://news.buaa.edu.cn/info/1005/63065.htm)
+- **Research authorship** — Co-first author of a review on the clinical translation of photoacoustic–ultrasound fusion for breast cancer imaging. [Author contribution statement](https://www.sciopen.com/article/10.26599/AUDT.2025.250103)
+- **Research infrastructure** — Built [Research Foundry](https://github.com/Xiaoqian-Zhang-Shawno/research-foundry), a local workspace for multi-model reviews and evidence tracking from research question to paper draft.
