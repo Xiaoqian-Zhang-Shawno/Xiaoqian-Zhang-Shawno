@@ -12,13 +12,13 @@ I study medical image representations and build research software.
 
 ## Selected research&nbsp;<img align="middle" src="assets/jojo-giorno.svg" width="32" height="40" alt="">
 
-**`IEEE TMI` — [VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
+<img src="assets/badges/ieee-tmi.svg" width="69" height="20" align="texttop" alt="IEEE TMI (journal)"> **— [VQPET](https://doi.org/10.1109/TMI.2026.3657118)** · 2026  
 Vector-quantized codebook priors for PET image synthesis.
 
-**`IVC` — [MoMIL](https://doi.org/10.1016/j.imavis.2026.105918)** · 2026  
+<img src="assets/badges/ivc.svg" width="39" height="20" align="texttop" alt="IVC (journal)"> **— [MoMIL](https://doi.org/10.1016/j.imavis.2026.105918)** · 2026  
 Multi-order multiple instance learning for computational pathology.
 
-**`AUDT` — [Photoacoustic–ultrasound fusion](https://doi.org/10.26599/AUDT.2025.250103)** · Review · 2025  
+<img src="assets/badges/audt.svg" width="50" height="20" align="texttop" alt="AUDT (review)"> **— [Photoacoustic–ultrasound fusion](https://doi.org/10.26599/AUDT.2025.250103)** · Review · 2025  
 A review of technical progress and clinical translation in breast cancer imaging.
 
 [All publications and author lists](https://xiaoqian-zhang-shawno.github.io/publications/)
@@ -27,13 +27,13 @@ A review of technical progress and clinical translation in breast cancer imaging
 
 <!-- Star counts checked against GitHub on 2026-11-06. -->
 
-**`Repo` — [ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**&nbsp;·&nbsp;[★&nbsp;0](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot/stargazers "ShawnoBot stargazers")  
+<img src="assets/badges/repo.svg" width="39" height="20" align="texttop" alt="Repo"> **— [ShawnoBot](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot)**&nbsp;·&nbsp;[★&nbsp;0](https://github.com/Xiaoqian-Zhang-Shawno/ShawnoBot/stargazers "ShawnoBot stargazers")  
 Feishu gateway for research workstation monitoring, allowlisted tasks, and sandboxed Codex workflows.
 
-**`Repo` — [Notion&nbsp;Research&nbsp;Digest](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**&nbsp;·&nbsp;[★&nbsp;3](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research/stargazers "notion-monthly-research stargazers")  
+<img src="assets/badges/repo.svg" width="39" height="20" align="texttop" alt="Repo"> **— [Notion&nbsp;Research&nbsp;Digest](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research)**&nbsp;·&nbsp;[★&nbsp;3](https://github.com/Xiaoqian-Zhang-Shawno/notion-monthly-research/stargazers "notion-monthly-research stargazers")  
 Collects arXiv papers and turns them into a recurring literature digest in Notion.
 
-**`Repo` — [BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**&nbsp;·&nbsp;[★&nbsp;1](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye/stargazers "BetDogEye stargazers")  
+<img src="assets/badges/repo.svg" width="39" height="20" align="texttop" alt="Repo"> **— [BetDogEye](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye)**&nbsp;·&nbsp;[★&nbsp;1](https://github.com/Xiaoqian-Zhang-Shawno/BetDogEye/stargazers "BetDogEye stargazers")  
 Local web app for tracking sports bets and visualizing portfolio risk.
 
 [All software projects](RESEARCH_SOFTWARE.md)
